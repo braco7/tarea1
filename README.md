@@ -1,3 +1,5 @@
+#Los datos estarán siendo consumidos por el comkponente B desde el servicio... Y serán desplegados en consola. 
+
 # Tarea1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
